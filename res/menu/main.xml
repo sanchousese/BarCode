@@ -1,0 +1,27 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/action_add_To_BD"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_add_To_BD"/>
+    
+    <item
+        android:id="@+id/action_show_BD"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_show_BD"/>
+
+    <item
+        android:id="@+id/action_clear_BD"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_clear_BD"/>
+     
+     <item
+        android:id="@+id/action_delete"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_delete"/>
+    
+</menu>
